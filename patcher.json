@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "target": "./AAA/PRO/FIGHTSTG.PRO",
+      "patch": "UEFUQ0gBzFwAG2QAFiQFAEAQGAACAhKAAAAaABYCErAAACGAFgHQ/AAbZAAWJAUAQBAYAAICEoAAABoAFgISsAAAIYAWRU9G"
+    },
+    {
+      "target": "./SLES_039.36",
+      "patch": "UEFUQ0gDG3YAAVoDG4IAAVBFT0Y="
+    }
+  ]
+}
